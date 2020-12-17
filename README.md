@@ -33,56 +33,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElraoufSabri&hide=TeX&layout=compact&theme=dark)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 705 Contributions in the Year 2020
- > 
-> 📦 284.7 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 67 Public Repositories 
- > 
-> 🔑 28 Private Repositories  
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
-🌆 Daytime    159 commits    █████████░░░░░░░░░░░░░░░░   38.69% 
-🌃 Evening    148 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       98 commits     ██████░░░░░░░░░░░░░░░░░░░   23.84% 
-Tuesday      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
-Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
-Friday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-Saturday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 
 <!--END_SECTION:waka-->
 
