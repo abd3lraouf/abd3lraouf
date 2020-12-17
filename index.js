@@ -22,7 +22,7 @@ const readme = `\
 [![Resume URL](https://img.shields.io/static/v1?color=teal&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download)](https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf)
 
 ## 🤵 About Me:
-- 🏦 I'm working as a freelance Android Developer.
+- 🏦 I'm working as a freelance Android Developer (Open to work ❤️❤️).
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily \`.java\`,\` .kt\`, \`.sh\`
 - 😊 Pronouns: He/Him
@@ -45,14 +45,11 @@ const readme = `\
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Stats:
-![AbdElraouf Sabri's Github Stats](https://github-readme-stats.vercel.app/api?username=AbdElraoufSabri&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdElraoufSabri&hide=TeX&layout=compact&theme=dark)
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
+
 `
 console.log(readme)
