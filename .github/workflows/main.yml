@@ -25,6 +25,7 @@ jobs:
           git push
 
   update-readme:
+    needs: [build]
     name: Get waka time info
     runs-on: ubuntu-latest
     steps:
