@@ -28,7 +28,7 @@ const readme = `\
 - 😊 Pronouns: He/Him
 - 🔑 GPG key: \`6CF56D21B9A90B5F\`
 - 👯 I’m looking to collaborate with other developers
-- 💬 Got 4 years of Exp in: **Clean architecture**, **Android**, **Dependency Injection**, **S.O.L.I.D**
+- 💬 Got 2+ years of Exp in: **Clean architecture**, **Dependency Injection**, **S.O.L.I.D**, **Android Development**.
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="32" height="32"/> 
