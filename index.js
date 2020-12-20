@@ -16,7 +16,8 @@ function generateProgressBar() {
 
 const readme = `\
 ### Hi there, I'm AbdElraouf Sabri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website URL](https://img.shields.io/static/v1?color=red&label=Website%20&logo=firefox-browser&logoColor=white&style=for-the-badge&message=Visit)](https://abd3lraouf.tech)
+[![Website URL](https://img.shields.io/static/v1?color=red&label=Website%20&logo=google-chrome&logoColor=white&style=for-the-badge&message=Visit)](https://abd3lraouf.tech)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:abdelraoufsabri@gmail.com)
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/abd3lraouf)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/abdelraouf-sabri)
 [![Resume URL](https://img.shields.io/static/v1?color=teal&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download)](https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf)
