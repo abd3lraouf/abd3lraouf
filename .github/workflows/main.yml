@@ -24,8 +24,19 @@ jobs:
           git commit -am "bot: updated README.md"
           git push
 
-  update-readme:
+  update-readme-with-blog:
     needs: [build]
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          feed_list: "https://abd3lraouf.tech/rss2.xml"
+
+  update-readme:
+    needs: [update-readme-with-blog]
     name: Get waka time info
     runs-on: ubuntu-latest
     steps:
