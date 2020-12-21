@@ -27,6 +27,7 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [TDD #01: Scouting the missing galaxy](https://abd3lraouf.tech/tdd/TDD-01-Scouting-the-missing-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
