@@ -3,8 +3,11 @@
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:abdelraoufsabri@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/abd3lraouf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abdelraouf-sabri/)
-[![Resume URL](https://img.shields.io/static/v1?color=teal&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download)](https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf)
-
+<p align='right'>
+      <a src="https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf">
+            <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=teal&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download">
+      </a>
+</p>
 
 ## 🤵 About Me:
 - 🏦 I'm a freelance Android Developer (currently Open to work ❤️❤️).
@@ -28,62 +31,12 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [TDD #01: Scouting the missing galaxy](https://abd3lraouf.tech/tdd/TDD-01-Scouting-the-missing-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
-🌆 Daytime    144 commits    █████████░░░░░░░░░░░░░░░░   36.36% 
-🌃 Evening    147 commits    █████████░░░░░░░░░░░░░░░░   37.12% 
-🌙 Night      49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       110 commits    ███████░░░░░░░░░░░░░░░░░░   27.78% 
-Tuesday      68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-Wednesday    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-Thursday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-Friday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
-Saturday     45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-Kotlin                   26 hrs 1 min        ██████████████████░░░░░░░   73.05% 
-XML                      1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
-YAML                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-Groovy                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-JavaScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.25%
-
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   24 repos            ████████████░░░░░░░░░░░░░   48.0% 
-Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████████████████████▁ } 97.73 % as on ⏰ 23-12-2020.
+⏳ **Year Progress** { █████████████████████████████▁ } 97.74 % as on ⏰ 23-12-2020.
 
 
