@@ -20,8 +20,11 @@ const readme = `\
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:abdelraoufsabri@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/abd3lraouf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abdelraouf-sabri/)
-[![Resume URL](https://img.shields.io/static/v1?color=teal&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download)](https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf)
-
+<p align='right'>
+      <a src="https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf">
+            <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=teal&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download">
+      </a>
+</p>
 
 ## 🤵 About Me:
 - 🏦 I'm a freelance Android Developer (currently Open to work ❤️❤️).
