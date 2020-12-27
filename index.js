@@ -21,7 +21,7 @@ const readme = `\
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/abd3lraouf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abdelraouf-sabri/)
 <p align='right'>
-      <a src="https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf">
+      <a href="https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf">
             <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=red&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download">
       </a>
 </p>
