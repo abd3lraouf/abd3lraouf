@@ -36,12 +36,15 @@ const readme = `\
 - 💬 Got 2+ years of Exp in: **Clean architecture**, **Dependency Injection**, **S.O.L.I.D**, **Android Development**.
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="32" height="32"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="32" height="32"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="32" height="32"/> 
 </p>
 
 ### 🎮 Latest Inventions
+- [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts)
+- [Twitter Search app](https://github.com/AbdElraoufSabri/WeeTwit)
+- [MVI sample](https://github.com/AbdElraoufSabri/mviSample)
 - [Open Source Library: RxJava3-Datastore](https://github.com/AbdElraoufSabri/DatastoreWithRxJava3)
 - [Open Source Library: CircularProgressBar](https://github.com/AbdElraoufSabri/CircularProgressBar)
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
