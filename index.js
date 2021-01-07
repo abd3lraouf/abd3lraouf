@@ -42,6 +42,8 @@ const readme = `\
 </p>
 
 ### 🎮 Latest Inventions
+**PS:** I've got other multi-module projects developed, tested and maintained using Clean architecture, TDD and DI. If you are a recruiter just [let me know](mailto:abdelraoufsabri@gmail.com)
+
 - [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts)
 - [Twitter Search app](https://github.com/AbdElraoufSabri/WeeTwit)
 - [MVI sample](https://github.com/AbdElraoufSabri/mviSample)
