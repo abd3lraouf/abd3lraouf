@@ -19,74 +19,27 @@
 - 💬 Got 2+ years of Exp in: **Clean architecture**, **Dependency Injection**, **S.O.L.I.D**, **Android Development**.
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="32" height="32"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="32" height="32"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="32" height="32"/> 
 </p>
 
 ### 🎮 Latest Inventions
+- [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts)
+- [Twitter Search app](https://github.com/AbdElraoufSabri/WeeTwit)
+- [MVI sample](https://github.com/AbdElraoufSabri/mviSample)
 - [Open Source Library: RxJava3-Datastore](https://github.com/AbdElraoufSabri/DatastoreWithRxJava3)
 - [Open Source Library: CircularProgressBar](https://github.com/AbdElraoufSabri/CircularProgressBar)
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [TDD #01: Scouting the missing galaxy](https://abd3lraouf.tech/tdd/TDD-01-Scouting-the-missing-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
-🌆 Daytime    140 commits    ████████░░░░░░░░░░░░░░░░░   33.49% 
-🌃 Evening    149 commits    █████████░░░░░░░░░░░░░░░░   35.65% 
-🌙 Night      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       102 commits    ██████░░░░░░░░░░░░░░░░░░░   24.4% 
-Tuesday      68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.27% 
-Wednesday    38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
-Friday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
-Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
-Sunday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-Kotlin                   16 hrs 57 mins      ███████████████████░░░░░░   79.48% 
-Groovy                   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-XML                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
-Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
-Java                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
-
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   28 repos            █████████████░░░░░░░░░░░░   51.85% 
-Java                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.43 % as on ⏰ 6-1-2021.
+⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.65 % as on ⏰ 7-1-2021.
 
 
