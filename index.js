@@ -25,6 +25,11 @@ const readme = `\
             <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=red&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download">
       </a>
 </p>
+<p align='right'>
+      <a href="https://github.com/AbdElraoufSabri">
+            <img alt="Ansible Role" src="https://komarev.com/ghpvc/?username=AbdElraoufSabri&label=PROFILE+VIEWS&color=red&style=flat-square">
+      </a>
+</p>
 
 ## 🤵 About Me:
 - 🏦 I'm a freelance Android Developer (currently Open to work ❤️❤️).
