@@ -41,6 +41,10 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [BMI Application](https://abd3lraouf.tech/portfolio_bmi/)
+- [Fancy Android Ruler](https://abd3lraouf.tech/portfolio_fancy_android_ruler/)
+- [Next](https://abd3lraouf.tech/portfolio_next/)
+- [TDD #01: Scouting the missing galaxy](https://abd3lraouf.tech/TDD-01-Scouting-the-missing-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
