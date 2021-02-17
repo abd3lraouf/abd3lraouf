@@ -33,7 +33,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://abd3lraouf.tech/rss2.xml"
+          feed_list: "https://abd3lraouf.tech/rss"
 
   update-readme:
     needs: [update-readme-with-blog]
