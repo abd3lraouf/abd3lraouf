@@ -1,5 +1,5 @@
 ### Hi there, I'm AbdElraouf Sabri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abd3lraouf.tech/)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abd3lraouf.tech/portfolio/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:abdelraoufsabri@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/abd3lraouf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abdelraouf-sabri/)
@@ -41,62 +41,12 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [TDD #01: Scouting the missing galaxy, The WHY?](https://abd3lraouf.tech/tdd-01-scouting-the-missing-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    112 commits    ██████░░░░░░░░░░░░░░░░░░░   26.11% 
-🌆 Daytime    108 commits    ██████░░░░░░░░░░░░░░░░░░░   25.17% 
-🌃 Evening    131 commits    ███████░░░░░░░░░░░░░░░░░░   30.54% 
-🌙 Night      78 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       85 commits     █████░░░░░░░░░░░░░░░░░░░░   19.81% 
-Tuesday      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-Wednesday    46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-Thursday     72 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
-Friday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
-Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
-Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-Kotlin                   4 hrs 30 mins       ██████████████████████░░░   87.61% 
-Properties               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
-Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
-
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   29 repos            █████████████░░░░░░░░░░░░   52.73% 
-Java                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.64% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.21 % as on ⏰ 18-2-2021.
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.34 % as on ⏰ 18-2-2021.
 
 
