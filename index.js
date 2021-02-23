@@ -56,6 +56,10 @@ const readme = `\
 - [Open Source Library: CircularProgressBar](https://github.com/AbdElraoufSabri/CircularProgressBar)
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
 
+### 📕 My Presentations:
+
+- [Social Engineering](https://abdelraoufsabri.github.io/Presentation), 26th Apil, 2020
+
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
