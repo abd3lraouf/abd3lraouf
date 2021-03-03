@@ -32,9 +32,10 @@
 ### 🎮 Latest Inventions
 **PS:** I've got other multi-module projects developed, tested and maintained using Clean architecture, TDD and DI. If you are a recruiter just [let me know](mailto:abdelraoufsabri@gmail.com)
 
-- [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts)
+<!-- - [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts) --> 
+- [Jetpack compose challenge #1](https://github.com/AbdElraoufSabri/compose-challenge-1)
 - [Twitter Search app](https://github.com/AbdElraoufSabri/WeeTwit)
-- [MVI sample](https://github.com/AbdElraoufSabri/mviSample)
+<!-- - [MVI sample](https://github.com/AbdElraoufSabri/mviSample) -->
 - [Open Source Library: RxJava3-Datastore](https://github.com/AbdElraoufSabri/DatastoreWithRxJava3)
 - [Open Source Library: CircularProgressBar](https://github.com/AbdElraoufSabri/CircularProgressBar)
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
