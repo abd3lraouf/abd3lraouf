@@ -33,12 +33,13 @@
 **PS:** I've got other multi-module projects developed, tested and maintained using Clean architecture, TDD and DI. If you are a recruiter just [let me know](mailto:abdelraoufsabri@gmail.com)
 
 <!-- - [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts) --> 
-- [Jetpack compose challenge #1](https://github.com/AbdElraoufSabri/compose-challenge-1)
+- [Jetpack compose challenge #1: The Pet Adoption App](https://github.com/AbdElraoufSabri/compose-challenge-1)
+- [Jetpack compose challenge #2: The Countdown Timer App](https://github.com/AbdElraoufSabri/compose-challenge-2)
 - [Twitter Search app](https://github.com/AbdElraoufSabri/WeeTwit)
-<!-- - [MVI sample](https://github.com/AbdElraoufSabri/mviSample) -->
 - [Open Source Library: RxJava3-Datastore](https://github.com/AbdElraoufSabri/DatastoreWithRxJava3)
 - [Open Source Library: CircularProgressBar](https://github.com/AbdElraoufSabri/CircularProgressBar)
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
+<!-- - [MVI sample](https://github.com/AbdElraoufSabri/mviSample) -->
 
 ### 📕 My Presentations:
 
@@ -46,59 +47,12 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Tor without the Tor Browser on Windows](https://abd3lraouf.tech/tor-without-the-tor-browser-on-windows/)
-- [TDD #01: Scouting the missing galaxy, The WHY?](https://abd3lraouf.tech/tdd-01-scouting-the-missing-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   25.83% 
-🌆 Daytime    110 commits    ██████░░░░░░░░░░░░░░░░░░░   26.07% 
-🌃 Evening    125 commits    ███████░░░░░░░░░░░░░░░░░░   29.62% 
-🌙 Night      78 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       75 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
-Tuesday      41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-Wednesday    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-Thursday     80 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.96% 
-Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-Saturday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-Sunday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   22 repos            ███████████░░░░░░░░░░░░░░   46.81% 
-Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53% 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.42 % as on ⏰ 9-3-2021.
+⏳ **Year Progress** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.49 % as on ⏰ 9-3-2021.
 
 
