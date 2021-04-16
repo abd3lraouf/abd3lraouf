@@ -32,7 +32,7 @@ const readme = `\
 </p>
 
 ## 🤵 About Me:
-- 🏦 I'm a freelance Android Developer (currently Open to work ❤️❤️).
+- 🏦 I'm an Android Developer, who is building awesome projects ❤️❤️).
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily \`.java\`,\` .kt\`, \`.sh\`
 - 😊 Pronouns: He/Him
