@@ -47,14 +47,12 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Tor without the Tor Browser on Windows](https://abd3lraouf.tech/tor-without-the-tor-browser-on-windows/)
-- [TDD #01: Scouting the missing galaxy, The WHY?](https://abd3lraouf.tech/tdd-01-scouting-the-missing-galaxy/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.92 % as on ⏰ 20-4-2021.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.20 % as on ⏰ 21-4-2021.
 
 
