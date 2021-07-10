@@ -49,6 +49,11 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Start here for a quick overview of everything you need to know](https://www.abd3lraouf.tech/welcome/)
+- [Customizing your brand and design settings](https://www.abd3lraouf.tech/design/)
+- [Writing and managing content in Ghost, an advanced guide](https://www.abd3lraouf.tech/write/)
+- [Building your audience with subscriber signups](https://www.abd3lraouf.tech/portal/)
+- [Selling premium memberships with recurring revenue](https://www.abd3lraouf.tech/sell/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
