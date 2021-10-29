@@ -58,6 +58,7 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Hello World](https://abd3lraouf.dev/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
