@@ -21,7 +21,7 @@ const readme = `\
 </h3>
 
 <p align='center'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23498EFF&vCenter=true&center=true&lines=Android+Developer+%40Vodafone;With+Experience+in+Cyber+security;Self+taught+DevOps+and+CICD+;Google+Associate+Android+Developer;CND%2C+CEH+v10%2C+and+ECSA;working+now+on+Jetpack+Compose+and+KMM)](https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=%23498EFF&vCenter=true&center=true&lines=Android+Developer+%40Vodafone;With+Experience+in+Cyber+security;Self+taught+DevOps+and+CICD+;Google+Associate+Android+Developer;CND%2C+CEH+v10%2C+and+ECSA;Studying+Jetpack+Compose+and+KMM">
 </p>
 
 <!-- Social icons section -->
