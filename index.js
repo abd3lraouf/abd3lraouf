@@ -50,7 +50,7 @@ const readme = `\
 - 🏦 Android Developer since 2016.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 😊 Pronouns: He/Him
-- 🔑 GPG public key: [`72A7 2278 FE6D 8BDA`](https://keybase.io/abd3lraouf/pgp_keys.asc?fingerprint=d971ef94887269e4308587a772a72278fe6d8bda)
+- 🔑 GPG public key: [72A7 2278 FE6D 8BDA](https://keybase.io/abd3lraouf/pgp_keys.asc?fingerprint=d971ef94887269e4308587a772a72278fe6d8bda)
 - 💬 You'll find me talking about: 
   - Jetpack Compose
   - Kotlin Multiplatform
