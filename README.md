@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23498EFF&center=true&lines=Android+Developer+%40Vodafone;With+Experience+in+Cyber+security;Self+taught+DevOps+and+CICD+;Google+Associate+Android+Developer;Ansi+CND%2C+CEH+v10%2C+and+ECSA;working+now+on+Jetpack+Compose+and+KMM)](https://git.io/typing-svg)
+<p align='center'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23498EFF&center=true&lines=Android+Developer+%40Vodafone;With+Experience+in+Cyber+security;Self+taught+DevOps+and+CICD+;Google+Associate+Android+Developer;Ansi+CND%2C+CEH+v10%2C+and+ECSA;working+now+on+Jetpack+Compose+and+KMM)](https://git.io/typing-svg">
+</p>
 
 <!-- Social icons section -->
 <p align='center'>
@@ -66,6 +68,6 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 82.63 % as on ⏰ 29-10-2021.
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 82.64 % as on ⏰ 29-10-2021.
 
 
