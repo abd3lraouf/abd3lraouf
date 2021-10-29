@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23498EFF&center=true&lines=Android+Developer+%40Vodafone;With+Experience+in+Cyber+security;Self+taught+DevOps+and+CICD+;Google+Associate+Android+Developer;Ansi+CND%2C+CEH+v10%2C+and+ECSA;working+now+on+Jetpack+Compose+and+KMM)](https://git.io/typing-svg)
+
 <!-- Social icons section -->
 <p align='center'>
       <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
@@ -58,7 +60,6 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://abd3lraouf.dev/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
