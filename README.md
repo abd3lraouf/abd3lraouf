@@ -1,8 +1,26 @@
-### Hi there, I'm AbdElraouf Sabri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abd3lraouf.tech/portfolio/)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:abdelraoufsabri@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/abd3lraouf)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/abdelraouf-sabri/)
+<h3 align="center">
+  Welcome to AbdElraouf Sabri's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Social icons section -->
+<p align='center'>
+      <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+      <a href="https://twitter.com/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter"></a>
+      <a href="https://keybase.io/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
+      <a href="https://www.abd3lraouf.tech/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
+      <a href="mailto:abdelraoufsabri@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a>      
+</p>
+<p align='center'>
+  <a href="https://github.com/abd3lraouf?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/abd3lraouf"/></a>
+  <a href="https://github.com/abd3lraouf?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/abd3lraouf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/abd3lraouf">
+    <img alt="views" title="GitHub profile views" src="https://enwj06txat9l677.m.pipedream.net"/></a>
+
+</p>
+
 <!-- 
 <p align='right'>
       <a href="https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf">
@@ -10,29 +28,20 @@
       </a>
 </p>
  -->
-<p align='right'>
-      <a href="https://github.com/AbdElraoufSabri">
-            <img alt="Ansible Role" src="https://komarev.com/ghpvc/?username=AbdElraoufSabri&label=PROFILE+VIEWS&color=red&style=flat-square">
-      </a>
-</p>
 
 ## 🤵 About Me:
-- 🏦 I'm an Android Developer, who is building awesome projects ❤️❤️).
+- 🏦 Android Developer since 2016.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily `.java`,` .kt`, `.sh`
 - 😊 Pronouns: He/Him
-- 🔑 GPG key: `6CF56D21B9A90B5F`
-- 👯 I’m looking to collaborate with other developers
-- 💬 Got 2+ years of Exp in: **Clean architecture**, **Dependency Injection**, **S.O.L.I.D**, **Android Development**.
+- 🔑 GPG public key: [72A7 2278 FE6D 8BDA](https://keybase.io/abd3lraouf/pgp_keys.asc?fingerprint=d971ef94887269e4308587a772a72278fe6d8bda)
+- 💬 You'll find me talking about: 
+  - Jetpack Compose
+  - Kotlin Multiplatform
+  - Clean architecture
+  - Clean Code principles
+  - Mobile Security
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="32" height="32"/> 
-</p>
-
-### 🎮 Latest Inventions
-**PS:** I've got other multi-module projects developed, tested and maintained using Clean architecture, TDD and DI. If you are a recruiter just [let me know](mailto:abdelraoufsabri@gmail.com)
+### 🎮 Latest Work
 
 <!-- - [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts) --> 
 - [Jetpack compose challenge #1: The Pet Adoption App](https://github.com/AbdElraoufSabri/compose-challenge-1)
@@ -45,7 +54,7 @@
 
 ### 📕 My Presentations:
 
-- [Social Engineering](https://abdelraoufsabri.github.io/Presentation), 26th Apil, 2020
+- [Social Engineering](https://abd3lraouf.github.io/Presentation), 26th Apil, 2020 @ ITI
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
@@ -55,6 +64,6 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 82.53 % as on ⏰ 29-10-2021.
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 82.63 % as on ⏰ 29-10-2021.
 
 
