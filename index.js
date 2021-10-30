@@ -15,6 +15,13 @@ function generateProgressBar() {
 }
 
 const readme = `\
+
+<!--
+  Title: Android Developer @Vodafone
+  Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity. 
+  Author: abd3lraouf
+  -->
+
 <h3 align="center">
   Welcome to AbdElraouf Sabri's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
