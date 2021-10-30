@@ -1,3 +1,10 @@
+
+<!--
+  Title: Android Developer @Vodafone
+  Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity. 
+  Author: abd3lraouf
+  -->
+
 <h3 align="center">
   Welcome to AbdElraouf Sabri's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -68,6 +75,6 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 82.80 % as on ⏰ 30-10-2021.
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 82.88 % as on ⏰ 30-10-2021.
 
 
