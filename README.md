@@ -69,13 +69,12 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android WebView The Missing guide](https://abd3lraouf.dev/webview-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████████████████████▁ } 99.24 % as on ⏰ 29-12-2021.
+⏳ **Year Progress** { █████████████████████████████▁ } 99.51 % as on ⏰ 30-12-2021.
 
 
