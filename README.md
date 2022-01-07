@@ -19,7 +19,7 @@
       <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
       <a href="https://twitter.com/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter"></a>
       <a href="https://keybase.io/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
-      <a href="https://www.abd3lraouf.tech/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
+      <a href="https://www.abd3lraouf.dev/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
       <a href="mailto:abdelraoufsabri@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a>      
 </p>
 <p align='center'>
@@ -69,13 +69,12 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android WebView The Missing guide](https://abd3lraouf.dev/webview-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.70 % as on ⏰ 7-1-2022.
+⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.73 % as on ⏰ 7-1-2022.
 
 
