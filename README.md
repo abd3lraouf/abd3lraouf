@@ -65,7 +65,7 @@
 
 ### 📕 My Presentations:
 
-- [Social Engineering](https://abd3lraouf.github.io/Presentation), 26th Apil, 2020 @ ITI
+- [Social Engineering](https://abd3lraouf.github.io/social-engineering), 26th Apil, 2020 @ ITI
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
