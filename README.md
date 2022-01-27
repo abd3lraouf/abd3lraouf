@@ -11,7 +11,7 @@
 </h3>
 
 <p align='center'>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=%23498EFF&vCenter=true&center=true&lines=Android+Developer+%40Vodafone;With+Experience+in+Cyber+security;Self+taught+DevOps+and+CICD+;Google+Associate+Android+Developer;CND%2C+CEH+v10%2C+and+ECSA;Studying+Jetpack+Compose+and+KMM">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=%23498EFF&vCenter=true&center=true&lines=Android+Developer+%40Vodafone;With+experience+in+Cyber+security;And+experience+in+DevOps+and+CICD+;Google+Certified+Associate+Android+Developer;CND%2C+CEH+v10%2C+and+ECSA;Studying+Jetpack+Compose+and+KMM">
 </p>
 
 <!-- Social icons section -->
@@ -69,13 +69,12 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android WebView The Missing guide](https://abd3lraouf.dev/webview-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.18 % as on ⏰ 27-1-2022.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.23 % as on ⏰ 27-1-2022.
 
 
