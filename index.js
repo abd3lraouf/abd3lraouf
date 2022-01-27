@@ -28,7 +28,7 @@ const readme = `\
 </h3>
 
 <p align='center'>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&color=%23498EFF&vCenter=true&center=true&lines=Android+Developer+%40Vodafone;With+experience+in+Cyber+security;And+experience+in+DevOps+and+CICD+;Google+Certified+Associate+Android+Developer;CND%2C+CEH+v10%2C+and+ECSA;Studying+Jetpack+Compose+and+KMM">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=%231F1B1B&duration=4000&center=true&vCenter=true&width=530&lines=Android+Developer+%40Vodafone;Google+Certified+Associate+Android+Developer;With+experience+in+Cyber+security;Ec-council+Certified%3A+CND%2C+CEH+v10%2C+and+ECSA;And+experience+in+DevOps+and+CICD+;Studying+Jetpack+Compose+and+KMM">
 </p>
 
 <!-- Social icons section -->
