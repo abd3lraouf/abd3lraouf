@@ -65,17 +65,16 @@
 
 ### 📕 My Presentations:
 
-- [Social Engineering](https://abd3lraouf.github.io/Presentation), 26th Apil, 2020 @ ITI
+- [Social Engineering](https://abd3lraouf.github.io/social-engineering/), 26th Apil, 2020 @ ITI
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android WebView The Missing guide](https://abd3lraouf.dev/webview-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.37 % as on ⏰ 4-2-2022.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.54 % as on ⏰ 4-2-2022.
 
 
