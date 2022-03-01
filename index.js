@@ -49,18 +49,10 @@ const readme = `\
     <img alt="views" title="GitHub profile views" src="https://enwj06txat9l677.m.pipedream.net"/></a>
 </p>
 <!-- Resume Download section -->
-<p align='right'>
+<p align='center'>
       <a href="https://github.com/abd3lraouf/CV/releases/latest/download/AbdElraouf.Sabri.Android.Developer.resume.pdf
-"><img src="https://custom-icon-badges.herokuapp.com/badge/-download-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download My Resume"></a>
+"><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download My Resume"></a>
 </p>
-
-<!-- 
-<p align='right'>
-      <a href="https://github.com/AbdElraoufSabri/AbdElraoufSabri/releases/latest/download/AbdElraouf.Sabri.resume.pdf">
-            <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=red&label=Resume&logo=adobe&logoColor=white&style=for-the-badge&message=Download">
-      </a>
-</p>
- -->
 
 ## 🤵 About Me:
 - 🏦 Android Developer since 2016.
