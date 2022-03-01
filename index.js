@@ -39,6 +39,7 @@ const readme = `\
       <a href="https://www.abd3lraouf.dev/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
       <a href="mailto:abdelraoufsabri@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a>
 </p>
+
 <!-- Stats icons section -->
 <p align='center'>
   <a href="https://github.com/abd3lraouf?tab=repositories&sort=stargazers">
@@ -48,10 +49,11 @@ const readme = `\
   <a href="https://github.com/abd3lraouf">
     <img alt="views" title="GitHub profile views" src="https://enwj06txat9l677.m.pipedream.net"/></a>
 </p>
+
 <!-- Resume Download section -->
 <p align='center'>
       <a href="https://github.com/abd3lraouf/CV/releases/latest/download/AbdElraouf.Sabri.Android.Developer.resume.pdf
-"><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download My Resume"></a>
+"><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="views" title="Download my latest resume" alt="resume"></a>
 </p>
 
 ## 🤵 About Me:
