@@ -52,7 +52,7 @@ const readme = `\
 
 <!-- Resume Download section -->
 <p align='center'>
-      <a href="https://github.com/abd3lraouf/CV/releases/latest/download/AbdElraouf.Sabri.Android.Developer.resume.pdf
+      <a href="https://github.com/abd3lraouf/abd3lraouf/releases/latest/download/AbdElraouf.Sabri.Android.Developer.resume.pdf
 "><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="views" title="Download my latest resume" alt="resume"></a>
 </p>
 
