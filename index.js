@@ -23,7 +23,7 @@ const readme = `\
   -->
 
 <h3 align="center">
-  Welcome to AbdElraouf Sabri's profile!
+  Welcome to AbdElraouf Sabri's profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -93,5 +93,6 @@ const readme = `\
 
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
 
+**I ❤️ open-source**
 `
 console.log(readme)
