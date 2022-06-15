@@ -1,6 +1,6 @@
 
 <!--
-  Title: Android Developer @Vodafone
+  Title: Senior Android Developer @StormIdeas
   Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity. 
   Author: abd3lraouf
   -->
@@ -76,5 +76,5 @@
 
 ⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 45.48 % as on ⏰ 15-6-2022.
 
-<h3 align="center">I ❤️ open-source</h3>
+<p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
