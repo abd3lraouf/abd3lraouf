@@ -76,5 +76,5 @@
 
 ⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 45.48 % as on ⏰ 15-6-2022.
 
-**I ❤️ open-source**
+<h3 align="center">I ❤️ open-source</h3>
 
