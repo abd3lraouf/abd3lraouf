@@ -93,6 +93,6 @@ const readme = `\
 
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
 
-**I ❤️ open-source**
+<h3 align="center">I ❤️ open-source</h3>
 `
 console.log(readme)
