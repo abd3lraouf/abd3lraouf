@@ -17,7 +17,7 @@ function generateProgressBar() {
 const readme = `\
 
 <!--
-  Title: Android Developer @Vodafone
+  Title: Senior Android Developer @StormIdeas
   Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity. 
   Author: abd3lraouf
   -->
@@ -93,6 +93,6 @@ const readme = `\
 
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
 
-<h3 align="center">I ❤️ open-source</h3>
+<p align="right">I ❤️ open-source</p>
 `
 console.log(readme)
