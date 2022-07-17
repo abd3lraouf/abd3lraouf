@@ -19,7 +19,7 @@ const readme = `\
 <!--
   Title: Senior Android Developer @StormIdeas
   Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity. 
-  Author: abd3lraouf
+  Author: abd3lraouf, AbdElraouf Sabri
   -->
 
 <h3 align="center">
@@ -61,23 +61,18 @@ const readme = `\
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 😊 Pronouns: He/Him
 - 🔑 GPG public key: [72A7 2278 FE6D 8BDA](https://keybase.io/abd3lraouf/pgp_keys.asc?fingerprint=d971ef94887269e4308587a772a72278fe6d8bda)
-- 💬 You'll find me talking about: 
-  - Jetpack Compose
-  - Kotlin Multiplatform
-  - Clean architecture
-  - Clean Code principles
-  - Mobile Security
 
 ### 🎮 Latest Work
 
 <!-- - [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts) --> 
-- [Jetpack compose challenge #1: The Pet Adoption App](https://github.com/AbdElraoufSabri/compose-challenge-1)
-- [Jetpack compose challenge #2: The Countdown Timer App](https://github.com/AbdElraoufSabri/compose-challenge-2)
-- [Twitter Search app](https://github.com/AbdElraoufSabri/WeeTwit)
-- [Open Source Library: RxJava3-Datastore](https://github.com/AbdElraoufSabri/DatastoreWithRxJava3)
-- [Open Source Library: CircularProgressBar](https://github.com/AbdElraoufSabri/CircularProgressBar)
-- [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
-<!-- - [MVI sample](https://github.com/AbdElraoufSabri/mviSample) -->
+- [Semantic](https://github.com/abd3lraouf/Semantic)
+- [Jetpack compose challenge #1: The Pet Adoption App](https://github.com/abd3lraouf/compose-challenge-1)
+- [Jetpack compose challenge #2: The Countdown Timer App](https://github.com/abd3lraouf/compose-challenge-2)
+- [Twitter Search app](https://github.com/abd3lraouf/WeeTwit)
+- [Open Source Library: RxJava3-Datastore](https://github.com/abd3lraouf/DatastoreWithRxJava3)
+- [Open Source Library: CircularProgressBar](https://github.com/abd3lraouf/CircularProgressBar)
+- [Open Source Library: FancyAndroidRuler](https://github.com/abd3lraouf/FancyAndroidRuler)
+<!-- - [MVI sample](https://github.com/abd3lraouf/mviSample) -->
 
 ### 📕 My Presentations:
 
