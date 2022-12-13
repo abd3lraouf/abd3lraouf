@@ -64,14 +64,13 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android webviews the missing guide](https://abd3lraouf.dev/posts/android-webviews-the-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 94.58 % as on ⏰ 12-12-2022.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 94.85 % as on ⏰ 13-12-2022.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
