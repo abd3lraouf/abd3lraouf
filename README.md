@@ -70,7 +70,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 95.40 % as on ⏰ 15-12-2022.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 95.68 % as on ⏰ 16-12-2022.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
