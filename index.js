@@ -17,7 +17,7 @@ function generateProgressBar() {
 const readme = `\
 
 <!--
-  Title: Senior Android Developer @StormIdeas
+  Title: Senior Android Developer @Storyteller
   Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity. 
   Author: abd3lraouf, AbdElraouf Sabri
   -->
@@ -28,7 +28,7 @@ const readme = `\
 </h3>
 
 <p align='center'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=%231F1B1B&duration=4000&center=true&vCenter=true&width=530&lines=Senior+Android+Developer+%40Storm+Ideas;Google+Certified+Associate+Android+Developer;With+experience+in+Cyber+security;Ec-council+Certified%3A+CND%2C+CEH+v10%2C+and+ECSA;And+experience+in+DevOps+and+CICD+;Studying+Jetpack+Compose+and+KMM">
+    Senior Android Developer
 </p>
 
 <!-- Social icons section -->
