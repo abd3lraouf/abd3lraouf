@@ -1,6 +1,6 @@
 
 <!--
-  Title: Senior Android Developer @StormIdeas
+  Title: Senior Android Developer @Storyteller
   Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity. 
   Author: abd3lraouf, AbdElraouf Sabri
   -->
@@ -11,7 +11,7 @@
 </h3>
 
 <p align='center'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&color=%231F1B1B&duration=4000&center=true&vCenter=true&width=530&lines=Senior+Android+Developer+%40Storm+Ideas;Google+Certified+Associate+Android+Developer;With+experience+in+Cyber+security;Ec-council+Certified%3A+CND%2C+CEH+v10%2C+and+ECSA;And+experience+in+DevOps+and+CICD+;Studying+Jetpack+Compose+and+KMM">
+    Senior Android Developer
 </p>
 
 <!-- Social icons section -->
@@ -65,59 +65,13 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android webviews the missing guide](https://abd3lraouf.dev/posts/android-webviews-the-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2019%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                691 commits         ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌆 Daytime                1057 commits        ████████████░░░░░░░░░░░░░   49.42 % 
-🌃 Evening                295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-🌙 Night                  96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   401 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Tuesday                  377 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Wednesday                430 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Thursday                 394 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Friday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Sunday                   69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   47 repos            █████████████░░░░░░░░░░░░   52.81 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-
-
-
-
- Last Updated on 09/03/2023 05:18:24 UTC
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.42 % as on ⏰ 9-3-2023.
+⏳ **Year Progress** { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 18.59 % as on ⏰ 9-3-2023.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
