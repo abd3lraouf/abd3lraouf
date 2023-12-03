@@ -69,7 +69,20 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+**I Mostly Code in Kotlin** 
 
+```text
+Kotlin                   57 repos            █████████████░░░░░░░░░░░░   52.78 % 
+TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+```
+
+
+
+
+ Last Updated on 03/12/2023 05:44:41 UTC
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress** { ███████████████████████████▁▁▁ } 92.11 % as on ⏰ 3-12-2023.
