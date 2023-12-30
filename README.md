@@ -17,9 +17,9 @@
 <!-- Social icons section -->
 <p align='center'>
       <a href="https://androiddev.social/@abd3lraouf" rel="me"><img src="https://custom-icon-badges.herokuapp.com/badge/-mastodon-black?style=for-the-badge&amp;logo=Mastodon&logoColor=white" alt="Mastodon"></a>
-      <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+<!--      <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
       <a href="https://twitter.com/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter"></a>
-      <a href="https://keybase.io/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
+-->      <a href="https://keybase.io/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
       <a href="https://www.abd3lraouf.dev/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
       <a href="mailto:abdelraoufsabri@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a>
 </p>
@@ -65,59 +65,13 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android webviews the missing guide](https://abd3lraouf.dev/posts/android-webviews-the-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2035%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                185448 commits      ██████████░░░░░░░░░░░░░░░   41.49 % 
-🌆 Daytime                245179 commits      ██████████████░░░░░░░░░░░   54.85 % 
-🌃 Evening                15911 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-🌙 Night                  428 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   87949 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Tuesday                  93127 commits       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Wednesday                105877 commits      ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Thursday                 89378 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   69071 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Saturday                 1208 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Sunday                   356 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   61 repos            ██████████████░░░░░░░░░░░   54.46 % 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-```
-
-
-
-
- Last Updated on 30/12/2023 05:50:51 UTC
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████████████████████▁ } 99.51 % as on ⏰ 30-12-2023.
+⏳ **Year Progress** { █████████████████████████████▁ } 99.58 % as on ⏰ 30-12-2023.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
