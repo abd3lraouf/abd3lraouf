@@ -41,10 +41,10 @@
 </p>
 -->
 
-## 🤵 About Me:
+## About Me:
 - 🏦 Android Developer since 2016.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 😊 Pronouns: He/Him
+- Pronouns: He/Him
 - 🔑 GPG public key: [72A7 2278 FE6D 8BDA](https://keybase.io/abd3lraouf/pgp_keys.asc?fingerprint=d971ef94887269e4308587a772a72278fe6d8bda)
 
 ### 🎮 Latest Work
@@ -65,59 +65,13 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android webviews the missing guide](https://abd3lraouf.dev/posts/android-webviews-the-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2035%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                185445 commits      ██████████░░░░░░░░░░░░░░░   41.49 % 
-🌆 Daytime                245179 commits      ██████████████░░░░░░░░░░░   54.85 % 
-🌃 Evening                15911 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-🌙 Night                  428 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   87949 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Tuesday                  93120 commits       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Wednesday                105877 commits      ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Thursday                 89378 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   69071 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Saturday                 1212 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Sunday                   356 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   61 repos            █████████████░░░░░░░░░░░░   53.98 % 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-```
-
-
-
-
- Last Updated on 31/12/2023 05:50:08 UTC
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████████████████████▁ } 99.78 % as on ⏰ 31-12-2023.
+⏳ **Year Progress** { █████████████████████████████▁ } 99.81 % as on ⏰ 31-12-2023.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
