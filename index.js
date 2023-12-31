@@ -84,10 +84,6 @@ const readme = `\
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
