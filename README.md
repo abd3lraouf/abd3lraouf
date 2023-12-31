@@ -16,8 +16,8 @@
 
 <!-- Social icons section -->
 <p align='center'>
-      <a href="https://androiddev.social/@abd3lraouf" rel="me"><img src="https://custom-icon-badges.herokuapp.com/badge/-mastodon-black?style=for-the-badge&amp;logo=Mastodon&logoColor=white" alt="Mastodon"></a>
-<!--      <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
+<!--      <a href="https://androiddev.social/@abd3lraouf" rel="me"><img src="https://custom-icon-badges.herokuapp.com/badge/-mastodon-black?style=for-the-badge&amp;logo=Mastodon&logoColor=white" alt="Mastodon"></a>
+      <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
       <a href="https://twitter.com/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter"></a>
 -->      <a href="https://keybase.io/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
       <a href="https://www.abd3lraouf.dev/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
@@ -43,7 +43,6 @@
 
 ## About Me:
 - 🏦 Android Developer since 2016.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Pronouns: He/Him
 - 🔑 GPG public key: [72A7 2278 FE6D 8BDA](https://keybase.io/abd3lraouf/pgp_keys.asc?fingerprint=d971ef94887269e4308587a772a72278fe6d8bda)
 
@@ -65,7 +64,6 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android webviews the missing guide](https://abd3lraouf.dev/posts/android-webviews-the-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ⏳ **Year Progress** { █████████████████████████████▁ } 99.81 % as on ⏰ 31-12-2023.
