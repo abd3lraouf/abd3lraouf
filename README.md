@@ -64,6 +64,7 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Android webviews the missing guide](https://abd3lraouf.dev/posts/android-webviews-the-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.44 % as on ⏰ 8-2-2024.
