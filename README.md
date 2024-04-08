@@ -16,12 +16,14 @@
 
 <!-- Social icons section -->
 <p align='center'>
-<!--      <a href="https://androiddev.social/@abd3lraouf" rel="me"><img src="https://custom-icon-badges.herokuapp.com/badge/-mastodon-black?style=for-the-badge&amp;logo=Mastodon&logoColor=white" alt="Mastodon"></a>
+      <a href="https://androiddev.social/@abd3lraouf" rel="me"><img src="https://custom-icon-badges.herokuapp.com/badge/-mastodon-black?style=for-the-badge&amp;logo=Mastodon&logoColor=white" alt="Mastodon"></a>
       <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-      <a href="https://twitter.com/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter"></a>
--->      <a href="https://keybase.io/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
-      <a href="https://www.abd3lraouf.dev/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
+      <a href="https://keybase.io/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
       <a href="mailto:abdelraoufsabri@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a>
+      <!-- 
+      <a href="https://twitter.com/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter"></a>
+      <a href="https://www.abd3lraouf.dev/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
+      -->
 </p>
 
 <!-- Stats icons section -->
@@ -64,10 +66,9 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Android webviews the missing guide](https://abd3lraouf.dev/posts/android-webviews-the-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
-⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.56 % as on ⏰ 7-4-2024.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.82 % as on ⏰ 8-4-2024.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
