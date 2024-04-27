@@ -4,11 +4,15 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 5 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     name: Updating readme first from template
     runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || github.actor != 'github-actions[bot]'
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js
@@ -28,6 +32,7 @@ jobs:
     needs: [build]
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || github.actor != 'github-actions[bot]'
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
