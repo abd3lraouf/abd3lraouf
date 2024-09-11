@@ -66,12 +66,9 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Fancy Android Ruler: A Customizable Ruler for Android](https://abd3lraouf.dev/portfolio/fancy-android-ruler/)
-- [PomoDon: Your Ultimate Productivity Companion](https://abd3lraouf.dev/portfolio/pomodon-productivity-app/)
-- [Mastering Android Webviews: The Missing Guide](https://abd3lraouf.dev/blog/mastering-android-webviews-the-missing-guide/)
 <!-- BLOG-POST-LIST:END -->
 
-⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.18 % as on ⏰ 10-9-2024.
+⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.46 % as on ⏰ 11-9-2024.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
