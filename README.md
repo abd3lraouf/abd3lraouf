@@ -68,7 +68,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 91.02 % as on ⏰ 29-11-2025.
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 91.29 % as on ⏰ 30-11-2025.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
