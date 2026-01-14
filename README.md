@@ -111,18 +111,13 @@ As a maintainer, I actively develop and support:
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Specter MCP](https://abd3lraouf.dev/projects/specter-mcp/)
-- [Building My Own Static Site Generator: A 9-Year Journey Home](https://abd3lraouf.dev/blog/building-my-own-static-site-generator/)
-- [Why Koin Won the KMP Dependency Injection Battle](https://abd3lraouf.dev/blog/kmp-koin-introduction/)
-- [ByteByteGo Reference Linker](https://abd3lraouf.dev/projects/bytebytego-reference-linker/)
-- [Making SDKMAN Java Work with macOS: A One-Line Fix](https://abd3lraouf.dev/blog/sdkman-java-home-macos-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 📈 Consistency
 
-⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.81 % as on ⏰ 15-1-2026.
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.81 % as on ⏰ 14-1-2026.
 
 ---
 
