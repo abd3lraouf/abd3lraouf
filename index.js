@@ -1,29 +1,37 @@
-const thisYear = new Date().getFullYear()
-const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
-const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
-const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
-const progressBarOfThisYear = generateProgressBar()
+const thisYear = new Date().getFullYear();
+const startTimeOfThisYear = new Date(
+  `${thisYear}-01-01T00:00:00+00:00`,
+).getTime();
+const endTimeOfThisYear = new Date(
+  `${thisYear}-12-31T23:59:59+00:00`,
+).getTime();
+const progressOfThisYear =
+  (Date.now() - startTimeOfThisYear) /
+  (endTimeOfThisYear - startTimeOfThisYear);
+const progressBarOfThisYear = generateProgressBar();
 
 function generateProgressBar() {
-    const progressBarCapacity = 30
-    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
-    const progressBar = Array(progressBarCapacity)
-        .fill('▁')
-        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
-        .join('')
-    return `{ ${progressBar} }`
+  const progressBarCapacity = 30;
+  const passedProgressBarIndex = parseInt(
+    progressOfThisYear * progressBarCapacity,
+  );
+  const progressBar = Array(progressBarCapacity)
+    .fill("▁")
+    .map((value, index) => (index < passedProgressBarIndex ? "█" : value))
+    .join("");
+  return `{ ${progressBar} }`;
 }
 
 const readme = `\
 
 <!--
   Title: Senior Android Developer @Storyteller
-  Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity. 
-  Author: abd3lraouf, AbdElraouf Sabri
+  Description: Google Certified Associate Android Developer, Clean code, TDD, CICD with knowledge in cybersecurity.
+  Author: abd3lraouf, Abdelraouf Sabri
   -->
 
 <h3 align="center">
-  Welcome to Abdelraouf Sabri's profile! 
+  Welcome to Abdelraouf Sabri's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -63,21 +71,40 @@ const readme = `\
   </a>
 </p>
 
-<!-- Resume Download section 
-<p align='center'>
-      <a href="https://github.com/abd3lraouf/abd3lraouf/releases/latest/download/AbdElraouf.Sabri.Android.Developer.resume.pdf
-"><img src="https://custom-icon-badges.herokuapp.com/badge/-download%20resume-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="views" title="Download my latest resume" alt="resume"></a>
-</p>
--->
-
 ## About Me:
 - 🏦 Android Developer since 2016.
-- Pronouns: He/Him
+- 🏢 Currently working at **Storyteller**
+- 🎯 Focus: Android, Kotlin Multiplatform, Clean Architecture
 - 🔑 GPG public key: [72A7 2278 FE6D 8BDA](https://keybase.io/abd3lraouf/pgp_keys.asc?fingerprint=d971ef94887269e4308587a772a72278fe6d8bda)
+
+### 🛠️ Tech Stack
+
+#### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Android & Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+#### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=unittest&logoColor=white)
+
+### 🏆 Achievements & Certifications
+
+- 📜 **Google Certified Associate Android Developer**
+- 💼 Senior Android Developer at Storyteller
+- 📚 Speaker: "Social Engineering" @ ITI (2020)
+- 🌟 Open Source Maintainer of multiple Android libraries
 
 ### 🎮 Latest Work
 
-<!-- - [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts) --> 
+<!-- - [MVI posts](https://github.com/abd3lraouf/MVIPosts) -->
 - [Semantic](https://github.com/abd3lraouf/Semantic)
 - [Jetpack compose challenge #1: The Pet Adoption App](https://github.com/abd3lraouf/compose-challenge-1)
 - [Jetpack compose challenge #2: The Countdown Timer App](https://github.com/abd3lraouf/compose-challenge-2)
@@ -95,8 +122,8 @@ const readme = `\
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
+⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate() + "-" + (new Date().getMonth() + 1) + "-" + new Date().getFullYear() + "."}
 
-<p align="right">made with ❤️ by AbdElraouf Sabri</p>
-`
-console.log(readme)
+<p align="right">made with ❤️ by Abdelraouf Sabri</p>
+`;
+console.log(readme);
