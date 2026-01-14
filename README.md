@@ -6,7 +6,7 @@
   -->
 
 <h3 align="center">
-  Welcome to AbdElraouf Sabri's profile! 
+  Welcome to Abdelraouf Sabri's profile! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -68,7 +68,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.62 % as on ⏰ 14-1-2026.
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.75 % as on ⏰ 14-1-2026.
 
 <p align="right">made with ❤️ by AbdElraouf Sabri</p>
 
