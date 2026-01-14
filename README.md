@@ -16,24 +16,34 @@
 
 <!-- Social icons section -->
 <p align='center'>
-      <a href="https://androiddev.social/@abd3lraouf" rel="me"><img src="https://custom-icon-badges.herokuapp.com/badge/-mastodon-black?style=for-the-badge&amp;logo=Mastodon&logoColor=white" alt="Mastodon"></a>
-      <a href="https://www.linkedin.com/in/abd3lraouf/"><img src="https://custom-icon-badges.herokuapp.com/badge/-LinkedIn-black?style=for-the-badge&amp;logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-      <a href="https://keybase.io/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Keybase-black?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
-      <a href="mailto:abdelraoufsabri@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&amp;logo=gmail" alt="Mail"></a>
-      <!-- 
-      <a href="https://twitter.com/abd3lraouf"><img src="https://custom-icon-badges.herokuapp.com/badge/-Twitter-black?style=for-the-badge&amp;logo=twitter&logoColor=white" alt="Twitter"></a>
-      <a href="https://www.abd3lraouf.dev/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
-      -->
+  <a href="https://androiddev.social/@abd3lraouf" rel="me">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
+  </a>
+  <a href="https://www.linkedin.com/in/abd3lraouf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://keybase.io/abd3lraouf">
+    <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase">
+  </a>
+  <a href="mailto:abdelraoufsabri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://abd3lraouf.dev">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
 </p>
 
 <!-- Stats icons section -->
 <p align='center'>
   <a href="https://github.com/abd3lraouf?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/abd3lraouf"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/abd3lraouf?affiliations=OWNER&style=for-the-badge&logo=star"/>
+  </a>
   <a href="https://github.com/abd3lraouf?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/abd3lraouf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/abd3lraouf?style=for-the-badge&logo=github&logoColor=white&labelColor=333"/>
+  </a>
   <a href="https://github.com/abd3lraouf">
-    <img alt="views" title="GitHub profile views" src="https://enwj06txat9l677.m.pipedream.net"/></a>
+    <img alt="views" title="GitHub profile views" src="https://enwj06txat9l677.m.pipedream.net"/>
+  </a>
 </p>
 
 <!-- Resume Download section 
