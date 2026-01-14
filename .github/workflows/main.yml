@@ -38,4 +38,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://abd3lraouf.dev/index.xml"
+          feed_list: "https://abd3lraouf.dev/atom.xml"
