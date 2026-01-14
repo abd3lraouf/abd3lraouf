@@ -14,18 +14,18 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule' || github.actor != 'github-actions[bot]'
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Use Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
-        node-version: '16.x'
+        node-version: '22.x'
     - name: Update README.md
       run: node index.js > README.md
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am "bot: updated README.md"
+          git diff --quiet || git commit -am "bot: updated README.md"
           git push
 
   update-readme-with-blog:
@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule' || github.actor != 'github-actions[bot]'
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
