@@ -42,7 +42,7 @@ const readme = `
 </p>
 
 <p align="center">
-  <i>Currently evaluating selective opportunities for 2025</i>
+  <i>Currently evaluating selective opportunities for ${thisYear}</i>
 </p>
 
 <p align='center'>
@@ -135,7 +135,7 @@ I actively maintain open-source libraries that help other developers build bette
 
 ---
 
-## 📈 2025 Progress
+## 📈 ${thisYear} Progress
 
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate() + "-" + (new Date().getMonth() + 1) + "-" + new Date().getFullYear() + "."}
 
