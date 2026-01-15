@@ -52,23 +52,12 @@
 
 ## 🛠️ Tech Stack
 
-### Core Expertise
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Architecture & Practices
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Arch-25A162?style=for-the-badge)
-![MVVM/MVI](https://img.shields.io/badge/MVVM%2FMVI-4285F4?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=unittest&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Also Proficient In
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -92,10 +81,8 @@ I actively maintain open-source libraries that help other developers build bette
 
 ## 🚀 Featured Projects
 
-### Production Applications
 - **[Semantic](https://github.com/abd3lraouf/Semantic)** — Semantic search and discovery platform
-- **[Jetpack Compose Challenge #1](https://github.com/abd3lraouf/compose-challenge-1)** — Pet Adoption App with modern declarative UI
-- **[Jetpack Compose Challenge #2](https://github.com/abd3lraouf/compose-challenge-2)** — Countdown Timer App with state management
+- **[Jetpack Compose Challenge](https://github.com/abd3lraouf/compose-challenge-1)** — Pet Adoption App with modern declarative UI
 - **[WeeTwit](https://github.com/abd3lraouf/WeeTwit)** — Twitter Search application with real-time results
 
 ---
