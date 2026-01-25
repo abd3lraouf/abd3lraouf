@@ -94,18 +94,13 @@ I actively maintain open-source libraries that help other developers build bette
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Specter MCP](https://abd3lraouf.dev/projects/specter-mcp/)
-- [Building My Own Static Site Generator: A 9-Year Journey Home](https://abd3lraouf.dev/blog/building-my-own-static-site-generator/)
-- [Why Koin Won the KMP Dependency Injection Battle](https://abd3lraouf.dev/blog/kmp-koin-introduction/)
-- [ByteByteGo Reference Linker](https://abd3lraouf.dev/projects/bytebytego-reference-linker/)
-- [Making SDKMAN Java Work with macOS: A One-Line Fix](https://abd3lraouf.dev/blog/sdkman-java-home-macos-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 📈 2026 Progress
 
-⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 6.36 % as on ⏰ 24-1-2026.
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 6.63 % as on ⏰ 25-1-2026.
 
 ---
 
