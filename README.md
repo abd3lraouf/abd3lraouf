@@ -40,12 +40,12 @@ Founder of [Timewarden](https://timewarden.app) — I build products, not just f
 
 **Primary**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-25A162?style=for-the-badge)
-![MVVM / MVI](https://img.shields.io/badge/MVVM%20%2F%20MVI-25A162?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge)
+![MVVM / MVI](https://img.shields.io/badge/MVVM%20%2F%20MVI-1A1A2E?style=for-the-badge)
 
 **Secondary**
 
@@ -54,7 +54,7 @@ Founder of [Timewarden](https://timewarden.app) — I build products, not just f
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
