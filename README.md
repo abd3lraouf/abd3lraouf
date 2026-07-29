@@ -77,6 +77,11 @@ Founder of [Timewarden](https://timewarden.app) — I build products, not just f
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Specter MCP](https://abd3lraouf.dev/projects/specter-mcp/)
+- [Building My Own Static Site Generator: A 9-Year Journey Home](https://abd3lraouf.dev/blog/building-my-own-static-site-generator/)
+- [Why Koin Won the KMP Dependency Injection Battle](https://abd3lraouf.dev/blog/kmp-koin-introduction/)
+- [ByteByteGo Reference Linker](https://abd3lraouf.dev/projects/bytebytego-reference-linker/)
+- [Making SDKMAN Java Work with macOS: A One-Line Fix](https://abd3lraouf.dev/blog/sdkman-java-home-macos-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
