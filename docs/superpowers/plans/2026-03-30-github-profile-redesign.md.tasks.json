@@ -1,0 +1,25 @@
+{
+  "planPath": "docs/superpowers/plans/2026-03-30-github-profile-redesign.md",
+  "tasks": [
+    {
+      "id": 5,
+      "subject": "Task 1: Rewrite index.js with new profile template",
+      "status": "pending",
+      "description": "**Goal:** Replace the entire index.js content with the redesigned profile template, removing the year progress bar logic.\n\n**Files:**\n- Modify: `index.js` (full rewrite)\n\n**Verify:** `cd /Users/abd3lraouf/Developer/abd3lraouf && node index.js`\n\n```json:metadata\n{\"files\": [\"index.js\", \"README.md\"], \"verifyCommand\": \"cd /Users/abd3lraouf/Developer/abd3lraouf && node index.js\", \"acceptanceCriteria\": [\"SEO meta correct\", \"headline correct\", \"about paragraph correct\", \"two-tier tech stack\", \"4 featured projects\", \"blog markers preserved\", \"contact CTA present\", \"progress bar removed\", \"stale content removed\", \"7+ years throughout\"], \"requiresUserVerification\": false}\n```"
+    },
+    {
+      "id": 6,
+      "subject": "Task 2: Update GitHub repo description and topics",
+      "status": "pending",
+      "description": "**Goal:** Update the abd3lraouf/abd3lraouf repository description and topics to match new positioning.\n\n**Verify:** `gh repo view abd3lraouf/abd3lraouf --json description,repositoryTopics`\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"gh repo view abd3lraouf/abd3lraouf --json description,repositoryTopics\", \"acceptanceCriteria\": [\"repo description updated\", \"repo topics updated\"], \"requiresUserVerification\": false}\n```"
+    },
+    {
+      "id": 7,
+      "subject": "Task 3: Push changes and verify live profile",
+      "status": "pending",
+      "blockedBy": [5, 6],
+      "description": "**Goal:** Push committed changes and confirm the profile renders correctly on GitHub.\n\n**Verify:** `gh run list --repo abd3lraouf/abd3lraouf --limit 1`\n\n```json:metadata\n{\"files\": [], \"verifyCommand\": \"gh run list --repo abd3lraouf/abd3lraouf --limit 1\", \"acceptanceCriteria\": [\"changes pushed\", \"workflow completes\", \"live profile updated\"], \"requiresUserVerification\": false}\n```"
+    }
+  ],
+  "lastUpdated": "2026-03-30T12:00:00Z"
+}
