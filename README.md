@@ -77,11 +77,6 @@ Founder of [Timewarden](https://timewarden.app) — I build products, not just f
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Specter MCP](https://github.com/abd3lraouf/specter-mcp)
-- [Building My Own Static Site Generator: A 9-Year Journey Home](https://abd3lraouf.dev/writing/building-my-own-static-site-generator/)
-- [ByteByteGo Reference Linker](https://github.com/abd3lraouf/bytebytego-reference-linker)
-- [Making SDKMAN Java Work with macOS: A One-Line Fix](https://abd3lraouf.dev/writing/sdkman-java-home-macos-integration/)
-- [AICommit](https://github.com/abd3lraouf/aicommit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
