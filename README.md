@@ -5,8 +5,9 @@
   7+ years, Google Certified. Founder of Timewarden. Open to select roles.
   Author: Abdelraouf Sabri, abd3lraouf
   Keywords: android developer, senior android engineer, kotlin developer,
-  jetpack compose, kotlin multiplatform, KMP, clean architecture, swift, macos,
-  indie developer, software studio, menu bar apps, developer tools, egypt, remote
+  jetpack compose, kotlin multiplatform, KMP, compose multiplatform, clean architecture,
+  swift, macos, SDK development, release engineering, mac app store, prayer times,
+  vocaldrop, indie developer, software studio, menu bar apps, developer tools, egypt, remote
 -->
 
 <div align="center">
@@ -51,7 +52,7 @@
 
 I run **[abd3lraouf studios](https://abd3lraouf.dev)** — an independent studio behind seven native apps and developer tools, built and shipped end to end. Every one runs on your own hardware and **stays yours once you have it**: no accounts to keep, nothing to cancel later.
 
-By day, a **Senior Android Engineer** with 7+ years shipping production mobile apps — Google Certified, deep in **Kotlin, Jetpack Compose, Clean Architecture** and **Kotlin Multiplatform**. Founder of [Timewarden](https://timewarden.app). Beyond Android I ship **macOS apps in Swift**, developer tooling (IDE plugins, MCP servers, CLIs) and open-source libraries.
+By day, a **Senior Android Engineer** with 7+ years shipping production mobile apps — **Google Certified — Associate Android Developer**, deep in **Kotlin, Jetpack Compose, Clean Architecture** and **Kotlin Multiplatform**. Founder of [Timewarden](https://timewarden.app). Beyond Android I ship **macOS apps in Swift**, developer tooling (IDE plugins, MCP servers, CLIs) and open-source libraries.
 
 > I build products, not just features.
 
@@ -118,7 +119,7 @@ Software native to the platform it runs on: quick to get working, dependable for
 
 ## Support the work
 
-The studio's apps are free to use and mostly open source. If something here saved you time, a sponsorship on GitHub keeps the next release coming — thank you.
+The studio's apps are free to use and its developer tools are open source. If something here saved you time, a sponsorship on GitHub keeps the next release coming — thank you.
 
 <div align="center">
 
