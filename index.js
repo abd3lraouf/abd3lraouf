@@ -1,112 +1,142 @@
 const readme = `\
 <!--
-  Title: Abdelraouf Sabri — Senior Android Engineer | Kotlin, Jetpack Compose, KMP
-  Description: Senior Android Engineer with 7+ years of experience. Google Certified.
-  Founder of Timewarden. Kotlin, Jetpack Compose, Clean Architecture, KMP.
-  Open to full-time and contract roles.
+  Title: Abdelraouf Sabri — Founder, abd3lraouf studios | Senior Android Engineer
+  Description: Independent software studio behind seven native apps and developer
+  tools, built and shipped end to end in Kotlin and Swift. Senior Android Engineer,
+  7+ years, Google Certified. Founder of Timewarden. Open to select roles.
   Author: Abdelraouf Sabri, abd3lraouf
   Keywords: android developer, senior android engineer, kotlin developer,
-  jetpack compose, kotlin multiplatform, KMP, clean architecture, mobile engineer,
-  google certified android developer, egypt, remote
+  jetpack compose, kotlin multiplatform, KMP, clean architecture, swift, macos,
+  indie developer, software studio, menu bar apps, developer tools, egypt, remote
 -->
 
-<h1 align="center">Abdelraouf Sabri</h1>
+<div align="center">
 
-<p align="center">
-  <b>Senior Android Engineer | 7+ Years | Google Certified</b><br>
-  Founder of <a href="https://timewarden.app">Timewarden</a> — Kotlin, Jetpack Compose, KMP, Clean Architecture<br>
-  <i>Open to full-time & contract roles (remote, on-site, or relocation)</i>
+<h1>Abdelraouf Sabri</h1>
+
+<p>
+  <b>Founder, <a href="https://abd3lraouf.dev">abd3lraouf&nbsp;studios</a></b> &nbsp;·&nbsp; native apps that stay yours
+</p>
+<p>
+  <sub>Senior Android Engineer &nbsp;·&nbsp; 7+ years &nbsp;·&nbsp; Google Certified &nbsp;·&nbsp; Kotlin &amp; Swift</sub>
 </p>
 
-<p align="center">
+<p>
+  <a href="https://abd3lraouf.dev">
+    <img src="https://img.shields.io/badge/Website-abd3lraouf.dev-0A3599?style=for-the-badge&labelColor=060E37&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/abd3lraouf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A3599?style=for-the-badge&labelColor=060E37&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:hire@abd3lraouf.dev">
+    <img src="https://img.shields.io/badge/Email-0A3599?style=for-the-badge&labelColor=060E37&logo=maildotru&logoColor=white" alt="Email">
+  </a>
+  <a href="https://androiddev.social/@abd3lraouf" rel="me">
+    <img src="https://img.shields.io/badge/Mastodon-0A3599?style=for-the-badge&labelColor=060E37&logo=mastodon&logoColor=white" alt="Mastodon">
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/abd3lraouf?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/abd3lraouf?affiliations=OWNER&style=for-the-badge&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/abd3lraouf?affiliations=OWNER&style=flat-square&labelColor=060E37&color=0A3599&logo=github&logoColor=white&label=stars"/>
   </a>
+  &nbsp;
   <a href="https://github.com/abd3lraouf?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/abd3lraouf?style=for-the-badge&logo=github&logoColor=white&labelColor=333"/>
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/abd3lraouf?style=flat-square&labelColor=060E37&color=0A3599&logo=github&logoColor=white&label=followers"/>
   </a>
 </p>
 
----
+</div>
 
 ## About
 
-Senior Android Engineer with 7+ years building production mobile apps. Google Certified Associate Android Developer. I specialize in Kotlin, Jetpack Compose, and Clean Architecture, with hands-on experience in Kotlin Multiplatform and cross-platform tooling.
+I run **[abd3lraouf studios](https://abd3lraouf.dev)** — an independent studio behind seven native apps and developer tools, built and shipped end to end. Every one runs on your own hardware and **stays yours once you have it**: no accounts to keep, nothing to cancel later.
 
-Founder of [Timewarden](https://timewarden.app) — I build products, not just features. Beyond Android, I ship macOS apps (Swift), developer tools (IDE plugins, MCP servers), and open-source libraries.
+By day, a **Senior Android Engineer** with 7+ years shipping production mobile apps — Google Certified, deep in **Kotlin, Jetpack Compose, Clean Architecture** and **Kotlin Multiplatform**. Founder of [Timewarden](https://timewarden.app). Beyond Android I ship **macOS apps in Swift**, developer tooling (IDE plugins, MCP servers, CLIs) and open-source libraries.
 
----
+> I build products, not just features.
 
-## Tech Stack
+## Studio — apps
 
-**Primary**
+Software native to the platform it runs on: quick to get working, dependable for as long as you keep it.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge)
-![MVVM / MVI](https://img.shields.io/badge/MVVM%20%2F%20MVI-1A1A2E?style=for-the-badge)
+| App | What it does | Get it |
+|-----|--------------|--------|
+| **[PrayerTimes Pro](https://abd3lraouf.dev/projects/prayertimes/)** | Accurate prayer times in the macOS menu bar — 26 calculation methods, 5 languages, fully offline. | [Mac App&nbsp;Store](https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12) — free & complete, $4.99 once for Pro |
+| **[VocalDrop](https://abd3lraouf.dev/projects/vocaldrop/)** | Studio-grade acapella extraction — models run on your own hardware, no upload, no account. | [Download](https://github.com/abd3lraouf-studios/vocaldrop/releases/latest) — macOS · Windows · Linux |
+| **[Magic BG Remover](https://abd3lraouf.dev/projects/magic-bg-remover/)** | Instant background cutouts, right in the browser tab. | [Open the app](https://abd3lraouf-studios.github.io/magic-bg-remover-app/) |
 
-**Secondary**
+## Studio — developer tools
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Tool | What it does | Get it |
+|------|--------------|--------|
+| **[jtaccel](https://abd3lraouf.dev/projects/jtaccel/)** | JetBrains Toolbox downloads at full line speed — 16 parallel streams, byte-exact. | [GitHub](https://github.com/abd3lraouf-studios/jetbrains-toolbox-accelerator/releases/latest) |
+| **[Layout Auto Switcher](https://abd3lraouf.dev/projects/layout-auto-switcher/)** | Mac & Windows keyboard layouts switched for you the instant a KVM hands over. | [GitHub](https://github.com/abd3lraouf-studios/logitech-layout-auto-switcher/releases/latest) |
+| **[Touch ID for sudo](https://abd3lraouf.dev/projects/touch-id-for-sudo/)** | Authenticate \`sudo\` with Touch ID — including inside tmux. | [GitHub](https://github.com/abd3lraouf-studios/macos-touchid-sudo) |
+| **[IDM Download Router](https://abd3lraouf.dev/projects/idm-download-router/)** | Every IDM folder and category on one screen, reviewed as a set, applied once. | [Download](https://github.com/abd3lraouf-studios/idm-download-router/releases/latest/download/IDM.Download.Router.exe) — Windows |
 
----
+<div align="center">
+  <a href="https://abd3lraouf.dev/#apps"><b>See everything the studio ships&nbsp;→</b></a>
+</div>
 
-## Featured Projects
+## Open source & other work
 
-- **[Timewarden](https://timewarden.app)** — Time tracking product for teams (Founder)
-  \`Kotlin\` \`Android\` \`KMP\`
+- **[Timewarden](https://timewarden.app)** — the product I founded &nbsp;·&nbsp; \`Kotlin\` \`Android\` \`KMP\`
+- **[Specter MCP](https://github.com/abd3lraouf/specter-mcp)** — Model Context Protocol server &nbsp;·&nbsp; \`TypeScript\`
+- **[OpenInTools](https://github.com/abd3lraouf/OpenInTools)** — IntelliJ plugin to open files in Xcode, Cursor, VS Code &nbsp;·&nbsp; \`Kotlin\`
+- **[AICommit](https://github.com/abd3lraouf/aicommit)** — AI-authored git commit messages &nbsp;·&nbsp; \`CLI\`
 
-- **[PrayerTimes](https://github.com/abd3lraouf/PrayerTimes)** — Minimalist prayer times app for macOS menu bar
-  \`Swift\` \`macOS\`
+## Tech
 
-- **[Notimanager](https://github.com/abd3lraouf/Notimanager)** — Notification management app for macOS
-  \`Swift\` \`macOS\`
+<div align="center">
 
-- **[OpenInTools](https://github.com/abd3lraouf/OpenInTools)** — IntelliJ plugin to open files in Xcode, Cursor, VS Code
-  \`Kotlin\` \`IDE Plugin\`
+![Kotlin](https://img.shields.io/badge/Kotlin-0A3599?style=for-the-badge&labelColor=060E37&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0A3599?style=for-the-badge&labelColor=060E37&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-0A3599?style=for-the-badge&labelColor=060E37&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-0A3599?style=for-the-badge&labelColor=060E37&logo=kotlin&logoColor=white)
+<br>
+![Swift](https://img.shields.io/badge/Swift-0A3599?style=for-the-badge&labelColor=060E37&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A3599?style=for-the-badge&labelColor=060E37&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A3599?style=for-the-badge&labelColor=060E37&logo=python&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-0A3599?style=for-the-badge&labelColor=060E37&logo=gradle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0A3599?style=for-the-badge&labelColor=060E37&logo=githubactions&logoColor=white)
 
----
+</div>
 
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+<div align="center">
+  <a href="https://abd3lraouf.dev/writing/"><b>Read more on abd3lraouf.dev&nbsp;→</b></a>
+</div>
 
-## Get in Touch
+## Support the work
 
-Open to full-time and contract roles — remote, on-site, or relocation.
+The studio's apps are free to use and mostly open source. If something here saved you time, a sponsorship on GitHub keeps the next release coming — thank you.
 
-<p align="center">
-  <a href="mailto:hire@abd3lraouf.dev">
-    <img src="https://img.shields.io/badge/hire@abd3lraouf.dev-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email for career opportunities">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Response within 24 hours</i>
-</p>
+<a href="https://github.com/sponsors/abd3lraouf">
+  <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&labelColor=060E37&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub">
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abd3lraouf/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://androiddev.social/@abd3lraouf" rel="me">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
-  </a>
-  <a href="https://abd3lraouf.dev">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-</p>
+</div>
+
+## Work with me
+
+Available for select **full-time, contract and studio** work — remote, on-site, or relocation.
+
+<div align="center">
+
+<a href="mailto:hire@abd3lraouf.dev">
+  <img src="https://img.shields.io/badge/hire@abd3lraouf.dev-0A3599?style=for-the-badge&labelColor=060E37&logo=maildotru&logoColor=white" alt="Email for opportunities">
+</a>
+
+<br><sub><i>Response within 24 hours</i></sub>
+
+</div>
 `;
 
 console.log(readme);
