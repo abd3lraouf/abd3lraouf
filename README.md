@@ -106,11 +106,6 @@ Software native to the platform it runs on: quick to get working, dependable for
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [The Kotlin Multiplatform business case, for the person who signs off](https://abd3lraouf.dev/writing/kotlin-multiplatform-business-case-for-ctos/)
-- [Adding Kotlin Multiplatform to an existing Android app: the iOS side](https://abd3lraouf.dev/writing/add-kotlin-multiplatform-to-existing-android-app/)
-- [BS-RoFormer, viperx 1296 and BS-PolarFormer: what the SDR numbers mean](https://abd3lraouf.dev/writing/bs-roformer-viperx-1296-uvr5-vocal-models/)
-- [Is Kotlin Multiplatform production-ready? Every status, dated](https://abd3lraouf.dev/writing/is-kotlin-multiplatform-production-ready/)
-- [Isha at 11pm: how prayer apps handle summer nights in the UK](https://abd3lraouf.dev/writing/isha-at-11pm-high-latitude-prayer-times/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
